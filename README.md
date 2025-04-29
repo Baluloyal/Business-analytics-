@@ -2,7 +2,7 @@
 ##On this task I observed that how the AI buddy(sparrow )  work in a different conditions . 
 
 #star screenshot png 
-- a<href:https://github.com/Baluloyal/Business-analytics-/blob/main/Github_%20star%20screenshot_png.png>starimage
+- <ahref:https://github.com/Baluloyal/Business-analytics-/blob/main/Github_%20star%20screenshot_png.png>starimage
 
 #Questions for Business analytics  
 
